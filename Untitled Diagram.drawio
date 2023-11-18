@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T03:52:38.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="shTQ7nvZ1S8k_SxFEFXJ" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T03:53:31.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="tf2JfdyQLzZHkvvhcltg" version="22.1.2" type="github">
   <diagram id="r8akQIV7CGBrM3lP9Y4Y" name="第 1 页">
     <mxGraphModel dx="1370" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,6 +182,12 @@
         </mxCell>
         <mxCell id="nayXP41YcCdt_hHMmjPa-71" value="不渲染该节点菜单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nayXP41YcCdt_hHMmjPa-75" value="根据节点名查找节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nayXP41YcCdt_hHMmjPa-76" value="判断节点是否有权限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
