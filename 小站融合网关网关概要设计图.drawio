@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T10:12:28.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SmgH8isO9lYSE5LL7emf" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T10:16:06.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="pM9MEXWjFcr9Fm07Y9UN" version="22.1.17" type="github">
   <diagram name="第 1 页" id="DEjIbC8M0QPoEUeSra0J">
-    <mxGraphModel dx="1786" dy="2035" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2182" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,6 +382,9 @@
         <mxCell id="rQOuPGtzIIbg4ZmECWrg-205" value="当前告警屏蔽" style="whiteSpace=wrap;html=1;fontSize=12;align=left;spacing=2;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="1066" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rQOuPGtzIIbg4ZmECWrg-281" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rQOuPGtzIIbg4ZmECWrg-219" target="rQOuPGtzIIbg4ZmECWrg-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rQOuPGtzIIbg4ZmECWrg-219" value="当前告警恢复" style="whiteSpace=wrap;html=1;fontSize=12;align=left;spacing=2;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="1096" width="90" height="30" as="geometry" />
         </mxCell>
@@ -414,6 +417,9 @@
         </mxCell>
         <mxCell id="rQOuPGtzIIbg4ZmECWrg-231" value="设备添加" style="whiteSpace=wrap;html=1;fontSize=12;align=left;spacing=2;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="809" y="1008" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rQOuPGtzIIbg4ZmECWrg-280" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rQOuPGtzIIbg4ZmECWrg-232" target="rQOuPGtzIIbg4ZmECWrg-240">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rQOuPGtzIIbg4ZmECWrg-232" value="设备编辑删除" style="whiteSpace=wrap;html=1;fontSize=12;align=left;spacing=2;spacingTop=0;" vertex="1" parent="1">
           <mxGeometry x="809" y="1038" width="90" height="30" as="geometry" />
